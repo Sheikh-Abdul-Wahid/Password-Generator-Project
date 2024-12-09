@@ -31,5 +31,5 @@ while True:
 
 # Password generation
 print("Your Generated Password:")
-print("".join(s[:passlen]))      
+print("".join(s[0:passlen]))      
         
